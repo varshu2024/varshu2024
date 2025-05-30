@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @varshu2024
-- 👀 I’m interested in ...web development python, ,fronth end developer
+- 👀 I’m interested in ...web development python, ,fronth end developer,python devloper
 - 🌱 I’m currently learning ...web development 
-- 💞️ I’m looking to collaborate on ...google microsoft 
+- 💞️ I’m looking to collaborate on ...google ,microsoft 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...she
 - ⚡ Fun fact: ...
 
 <!---
