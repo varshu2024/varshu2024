@@ -4,7 +4,7 @@
 
 <!-- ░░░░░░░░░░░░░░  HERO HEADER  ░░░░░░░░░░░░░░ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=280&section=header&text=Varshini%20Uppada&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20Developer%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Cloud%20Enthusiast&descSize=19&descAlignY=62&descColor=ffffffdd&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="varshini_banner.png" alt="Varshini Uppada — Backend Developer | AI/ML Explorer | Cloud Enthusiast" width="100%" style="border-radius:16px" />
 </div>
 
 <!-- ░░░░░░░░░░░░░░  TYPING HEADLINE  ░░░░░░░░░░░░░░ -->
@@ -202,6 +202,14 @@
 
 <br/>
 
+<!-- AI-generated snake illustration -->
+<div align="center">
+  <img src="snake_contribution.png" alt="Contribution Snake" width="90%" style="border-radius:12px" />
+</div>
+
+<br/>
+
+<!-- Live GitHub snake (activates after running the GitHub Action) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshu2024/varshu2024/output/github-snake-dark.svg" />
