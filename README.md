@@ -7,14 +7,7 @@
   <img src="varshini_banner.png" alt="Varshini Uppada — Backend Developer | AI/ML Explorer | Cloud Enthusiast" width="100%" style="border-radius:16px" />
 </div>
 
-<!-- ░░░░░░░░░░░░░░  TYPING HEADLINE  ░░░░░░░░░░░░░░ -->
-<div align="center">
-<a href="https://github.com/varshu2024">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=🚀+Building+scalable+backend+systems;🧠+300%2B+DSA+problems+solved;⚡+30–40%25+API+performance+boost+delivered;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;🤖+AI+%26+ML+with+TensorFlow+%26+Scikit-Learn" alt="Typing SVG" />
-</a>
-</div>
 
-<br/>
 
 <!-- ░░░░░░░░░░░░░░  CONTACT ROW  ░░░░░░░░░░░░░░ -->
 <div align="center">
@@ -192,33 +185,7 @@
 
 </div>
 
-<br/>
 
-<!-- ░░░░░░░░░░░░░░  CONTRIBUTION SNAKE  ░░░░░░░░░░░░░░ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24&height=44&text=%F0%9F%90%8D+CONTRIBUTION+SNAKE&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
-</div>
-
-<br/>
-
-<!-- AI-generated snake illustration -->
-<div align="center">
-  <img src="snake_contribution.png" alt="Contribution Snake" width="90%" style="border-radius:12px" />
-</div>
-
-<br/>
-
-<!-- Live GitHub snake (activates after running the GitHub Action) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varshu2024/varshu2024/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varshu2024/varshu2024/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/varshu2024/varshu2024/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- ░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░ -->
 
@@ -243,4 +210,3 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&animation=fadeIn&text=Thanks+for+visiting+%E2%80%94+let%27s+build+something+great!+%F0%9F%9A%80&fontSize=16&fontColor=ffffffcc&fontAlignY=65" width="100%" />
 </div>
-
