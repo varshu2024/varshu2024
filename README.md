@@ -3,30 +3,8 @@
 <!-- 🌊 ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:8B00FF,100:00BFFF&height=200&section=header&text=Hi!%20I'm%20Varshu%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=65&descSize=20&descColor=ffffffcc" width="100%" />
 
-<br/>
 
-<!-- ⌨️ TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=🌟+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Explorer;🏥+Building+AI+Insurance+Platform;🚀+Always+Learning%2C+Always+Growing!;☕+Powered+by+Coffee+%26+Curiosity" alt="Typing SVG" />
-</p>
 
-<br/>
-
-<!-- 📊 GITHUB STATS -->
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=varshu2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshu2024&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
-</div>
-
-<br/>
-
-<!-- 🔥 STREAK -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshu2024&theme=tokyonight&border_radius=12" width="65%" />
-</div>
-
-<br/>
 
 <!-- 🛠️ SKILL ICONS -->
 <p align="center">
