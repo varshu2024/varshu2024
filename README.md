@@ -4,26 +4,26 @@
 
 <!-- ══════════════  AI HERO BANNER  ══════════════ -->
 <div align="center">
-  <img src="varshini_banner.png" alt="Varshini Uppada" width="100%" />
+  <img src="varshini_banner.png" alt="Varshini Uppada — Backend Developer | AI/ML | Cloud" width="100%" />
 </div>
 
-<!-- ══════════════  ANIMATED WAVE DIVIDER  ══════════════ -->
+<!-- ══════════════  ANIMATED WAVE  ══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=80&section=header&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- ══════════════  NAME + TAGLINE  ══════════════ -->
+<!-- ══════════════  NAME & TAGLINE  ══════════════ -->
 <div align="center">
 
 # 👩‍💻 Varshini Uppada
 
-### *Backend Developer · AI/ML Explorer · Cloud Enthusiast*
+**`Backend Developer · AI/ML Explorer · Cloud Enthusiast`**
 
 </div>
 
 <br/>
 
-<!-- ══════════════  ANIMATED CONTACT BADGES  ══════════════ -->
+<!-- ══════════════  CONTACT BADGES  ══════════════ -->
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/varshuppada%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a0000)](mailto:varshuppada@gmail.com)&nbsp;
@@ -36,7 +36,7 @@
 
 <br/>
 
-<!-- ══════════════  HIGHLIGHT STATS  ══════════════ -->
+<!-- ══════════════  QUICK STATS  ══════════════ -->
 <div align="center">
 
 ![DSA](https://img.shields.io/badge/🧩_DSA_Problems-300%2B_Solved-7C3AED?style=for-the-badge&labelColor=0a0a0a)&nbsp;
@@ -47,7 +47,12 @@
 
 <br/>
 
-<!-- ══════════════  ANIMATED SECTION: TECH STACK  ══════════════ -->
+<!-- ══════════════  BACKGROUND ATMOSPHERE STRIP  ══════════════ -->
+<div align="center">
+  <img src="bg_tech.png" alt="" width="100%" />
+</div>
+
+<!-- ══════════════  TECH STACK HEADER  ══════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=48&text=🛠️+TECH+STACK&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
@@ -58,19 +63,24 @@
 
 | 💻 Languages | ⚙️ Backend | 🌐 Frontend |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 <br/>
 
 | 🗄️ Databases | ☁️ Cloud & DevOps | 🤖 AI / ML |
 |:---:|:---:|:---:|
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![SK](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square) |
 
 </div>
 
 <br/>
 
-<!-- ══════════════  ANIMATED SECTION: EXPERIENCE  ══════════════ -->
+<!-- ══════════════  BACKGROUND ATMOSPHERE STRIP  ══════════════ -->
+<div align="center">
+  <img src="bg_tech.png" alt="" width="100%" />
+</div>
+
+<!-- ══════════════  EXPERIENCE HEADER  ══════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=48&text=💼+EXPERIENCE&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
@@ -79,67 +89,59 @@
 
 <div align="center">
 
-<!-- Infosys Card -->
-<table width="90%">
-<tr>
-<td align="left" style="padding:16px">
+<!-- ── Infosys ── -->
+<table width="92%">
+<tr><td>
 
 <div align="center">
 
-**🟣 Python Developer Intern &nbsp;|&nbsp; Infosys Springboard**
-
+**🟣 Python Developer Intern &nbsp;·&nbsp; Infosys Springboard**&nbsp;&nbsp;
 ![Period](https://img.shields.io/badge/Nov_2025_–_Jan_2026-7C3AED?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
 | Achievement | Impact |
 |:---|:---:|
-| 🔧 Built 10+ RESTful APIs using Django REST Framework | ✅ Production-ready |
-| ⚡ Redis caching + query indexing | **30% faster** response |
-| 🚀 Implemented CI/CD pipelines | **40% faster** deploy |
-| 🗄️ Optimised PostgreSQL under concurrent load | ✅ High throughput |
-| 🐳 Containerised applications | Docker ✅ |
+| ⚡ Built **10+ RESTful APIs** with Django REST Framework | ✅ Production-ready |
+| 🚀 Redis caching + query optimisation & indexing | **30% faster** response |
+| � Implemented CI/CD pipelines end-to-end | **40% faster** deploy |
+| 🗄️ PostgreSQL performance tuning under load | ✅ High throughput |
+| 🐳 Containerised applications using Docker | ✅ Consistent envs |
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
 
-<!-- Bluestock Card -->
-<table width="90%">
-<tr>
-<td align="left" style="padding:16px">
+<!-- ── Bluestock ── -->
+<table width="92%">
+<tr><td>
 
 <div align="center">
 
-**🔵 Software Developer Intern &nbsp;|&nbsp; Bluestock**
-
+**🔵 Software Developer Intern &nbsp;·&nbsp; Bluestock**&nbsp;&nbsp;
 ![Period](https://img.shields.io/badge/Oct_2025_–_Dec_2025-0EA5E9?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
 | Achievement | Impact |
 |:---|:---:|
-| 🔧 Built 3 backend modules in Python & C++ | **18% efficiency** gain |
-| 🛠️ Refactored legacy code | ✅ Better modularity |
-| 🐞 Resolved critical defects | **20% error** reduction |
+| 🔧 Built **3 backend modules** in Python & C++ | **18% efficiency** gain |
+| 🛠️ Refactored legacy codebase | ✅ Better modularity |
+| 🐞 Resolved critical production defects | **20% error** reduction |
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
 
-<!-- HackerRank Card -->
-<table width="90%">
-<tr>
-<td align="left" style="padding:16px">
+<!-- ── HackerRank ── -->
+<table width="92%">
+<tr><td>
 
 <div align="center">
 
-**🟡 Software Developer Intern &nbsp;|&nbsp; HackerRank**
-
+**🟡 Software Developer Intern &nbsp;·&nbsp; HackerRank**&nbsp;&nbsp;
 ![Period](https://img.shields.io/badge/Jun_2025_–_Jul_2025-10B981?style=flat-square&labelColor=0a0a0a)
 
 </div>
@@ -147,17 +149,21 @@
 | Achievement | Impact |
 |:---|:---:|
 | 🏗️ Designed scalable OOP-based solutions | ✅ Production quality |
-| 🐳 Docker containerisation | ✅ Env consistency |
+| 🐳 Docker containerisation for env consistency | ✅ Reproducible builds |
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 </div>
 
 <br/>
 
-<!-- ══════════════  ANIMATED SECTION: PROJECTS  ══════════════ -->
+<!-- ══════════════  BACKGROUND ATMOSPHERE STRIP  ══════════════ -->
+<div align="center">
+  <img src="bg_tech.png" alt="" width="100%" />
+</div>
+
+<!-- ══════════════  PROJECTS HEADER  ══════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30&height=48&text=🚀+PROJECTS&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
@@ -177,7 +183,12 @@
 
 <br/>
 
-<!-- ══════════════  ANIMATED SECTION: EDUCATION  ══════════════ -->
+<!-- ══════════════  BACKGROUND ATMOSPHERE STRIP  ══════════════ -->
+<div align="center">
+  <img src="bg_tech.png" alt="" width="100%" />
+</div>
+
+<!-- ══════════════  EDUCATION HEADER  ══════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,12&height=48&text=🎓+EDUCATION&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
@@ -199,7 +210,7 @@
 
 <br/>
 
-<!-- ══════════════  ANIMATED SECTION: CONNECT  ══════════════ -->
+<!-- ══════════════  CONNECT HEADER  ══════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,30&height=48&text=🌐+LET%27S+CONNECT&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
@@ -218,6 +229,7 @@
 
 <!-- ══════════════  ANIMATED FOOTER WAVE  ══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&animation=fadeIn&text=Thanks+for+visiting+—+let's+build+something+great!+🚀&fontSize=16&fontColor=ffffffcc&fontAlignY=65" width="100%" />
+  <img src="bg_tech.png" alt="" width="100%" />
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&animation=fadeIn&text=Thanks+for+visiting+—+let%27s+build+something+great!+🚀&fontSize=16&fontColor=ffffffcc&fontAlignY=65" width="100%" />
 
