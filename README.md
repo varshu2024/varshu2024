@@ -2,10 +2,6 @@
 <!--        VARSHINI UPPADA  ·  PREMIUM GITHUB PROFILE        -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<!-- ══════════════  AI HERO BANNER  ══════════════ -->
-<div align="center">
-  <img src="varshini_banner.png" alt="Varshini Uppada — Backend Developer | AI/ML | Cloud" width="100%" />
-</div>
 
 <!-- ══════════════  ANIMATED WAVE  ══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=80&section=header&animation=fadeIn" width="100%" />
